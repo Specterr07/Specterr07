@@ -25,7 +25,7 @@ I primarily use **JavaScript** and **Python**. I love building practical tools a
 
 <br />
 
-> P.S. To read this intro on your terminal, run `npx Specterr07` (Coming soon!)
+> P.S. To read this intro on your terminal, run `npx Specterr07`
 
 
 ### `npx Specterr07`
