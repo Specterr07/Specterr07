@@ -1,4 +1,4 @@
-### `npx Specterr07`
+
 
 Hello, this is **Vivek Patel** 👋
 > *(Trust me, I'm an Engineer)* 👷
@@ -28,3 +28,4 @@ I primarily use **JavaScript** and **Python**. I love building practical tools a
 > P.S. To read this intro on your terminal, run `npx Specterr07` (Coming soon!)
 
 
+### `npx Specterr07`
